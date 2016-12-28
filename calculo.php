@@ -1,6 +1,6 @@
 <?php
 
-  sleep(1);
+  
     $ar = array();
 
     $numero = $_POST["numero_uno"];
